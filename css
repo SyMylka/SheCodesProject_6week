@@ -53,3 +53,11 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  box-sizing: border-box;
+  margin: 0;
+  text-align: left;
+}
